@@ -18,7 +18,8 @@ AS A traveler
 I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
-```
+
+
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
@@ -33,5 +34,4 @@ The following animation shows the web application's appearance and functionality
 * Application deployed: 
 https://sadiethongsavanh.github.io/weather_predictions/
 
-* Application GitHub URL: 
-https://github.com/sadiethongsavanh/weather_predictions
+* Application GitHub URL: https://github.com/sadiethongsavanh/weather_predictions
