@@ -31,6 +31,7 @@ The following animation shows the web application's appearance and functionality
 ### Deployment:
 
 * Application deployed: 
-*https://sadiethongsavanh.github.io/weather_predictions/
+https://sadiethongsavanh.github.io/weather_predictions/
 
-* Application GitHub URL: https://github.com/sadiethongsavanh/weather_predictions
+* Application GitHub URL: 
+https://github.com/sadiethongsavanh/weather_predictions
