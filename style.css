@@ -1,0 +1,81 @@
+.header {
+    padding: 1px;
+    text-align: center;
+    background-image: linear-gradient(to right, #279EFF, #0C356A);
+    color: white;
+    font-size: 15px;
+  }
+
+section{
+    float: left;
+}
+
+body{
+    background-color: white;
+}
+
+.cities{
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    background-color: darkgray;
+    border-radius: 5%;
+    box-shadow: 1px 1px darkgray;
+    
+}
+
+.weather-card{
+    background-color: #279EFF;
+    height: 300px;
+    width: 150px;
+    float: left;
+    /* text-align: center; */
+    margin: 45px;
+
+}
+
+.current-card{
+    width: 780px;
+    background-color: white;
+    padding-left: 10px;
+    text-align: center;
+    margin-left: 200px;
+}
+
+#left-side{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#searchbutton{
+    width: 100%;
+    background-color: #279EFF;
+    border-radius: 5%;
+}
+
+#city{
+    margin: 10px;
+    width: 95%;
+    margin-left: 0px;
+}
+
+h3{
+    display: block;
+    margin-right: 10px
+}
+
+/* #current-image{
+    position:relative;
+    top: 40px;
+} */
+
+label{
+    font-size: 1.5em;
+}
+
+#results{
+    text-align: center;
+    width: 1200px;
+    background-color: white;
+}
